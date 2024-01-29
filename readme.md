@@ -17,7 +17,7 @@ These instructions will guide you through setting up and running the project on 
 
 1. Clone the repository:
     ```bash
-    git clone [URL_to_this_repository]
+    git clone https://github.com/iamrahulr30/NewsCat.git
     ```
 
 2. Navigate to the cloned directory:
