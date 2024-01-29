@@ -1,0 +1,4 @@
+2024-01-29 19:38:46,831 - DEBUG - Creating converter from 3 to 5
+2024-01-29 19:38:47,814 - WARNING - From C:\Users\RAHUL\OneDrive\Desktop\intern_proj\venv\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-01-29 19:38:48,155 - INFO - Fetching data

@@ -1,0 +1,1694 @@
+[
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC2F0>",
+    "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+    "id": "a53b6e9f-9899-43ec-90ee-33597c9d944f",
+    "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+    "published_date": "2023-04-19 12:44:51",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC230>",
+    "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+    "id": "3b931fab-1f95-477e-bee3-30c25678571e",
+    "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+    "published_date": "2024-01-29 13:34:56",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC0B0>",
+    "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+    "id": "34be836c-5050-4bc1-a833-4aa328d2d05f",
+    "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+    "published_date": "2023-04-17 16:01:11",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC410>",
+    "link": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html",
+    "id": "1de207f9-3519-43ad-af18-c01be1ef1e0a",
+    "title": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'",
+    "published_date": "2023-04-19 08:28:17",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC4D0>",
+    "link": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
+    "id": "a34850ad-571d-41ab-b583-68b67610a369",
+    "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
+    "published_date": "2023-04-18 21:17:44",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC590>",
+    "link": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+    "id": "5e9308a2-2445-4143-9eb0-0b012008e2b9",
+    "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+    "published_date": "2023-04-18 20:34:45",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC650>",
+    "link": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+    "id": "0330c5e6-900b-471e-99a7-9a796271c1ca",
+    "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+    "published_date": "2023-04-19 04:29:05",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC710>",
+    "link": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+    "id": "1fe29de4-8bf3-4ebf-8037-3298855810ab",
+    "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+    "published_date": "2023-04-18 14:09:43",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC7D0>",
+    "link": "https://www.cnn.com/2023/04/18/entertainment/jake-gyllenhaal-jamie-lee-curtis-pandemic-living/index.html",
+    "id": "9eb0c20f-0676-4130-9377-f0e31eed368e",
+    "title": "Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together",
+    "published_date": "2023-04-18 14:40:32",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC890>",
+    "link": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
+    "id": "fb99e25f-5348-40e4-9d9e-3f0cfe451546",
+    "title": "Toddler crawls through White House fence, prompts Secret Service response",
+    "published_date": "2023-04-18 17:38:16",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BC950>",
+    "link": "https://www.cnn.com/2023/04/17/entertainment/jamie-foxx-remains-hospitalized/index.html",
+    "id": "d4333de9-646b-480e-bfc5-2b9af0190ea3",
+    "title": "Jamie Foxx remains hospitalized nearly a week after 'medical complication'",
+    "published_date": "2023-04-18 00:27:07",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCA10>",
+    "link": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+    "id": "da537989-1c4a-4b31-9ff8-3368970478a5",
+    "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+    "published_date": "2023-04-19 15:01:06",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCAD0>",
+    "link": "https://www.cnn.com/videos/us/2023/04/18/pizza-guy-trips-perp-moos-cprog-orig-bdk.cnn",
+    "id": "724f1f28-f630-43f9-acf7-7aae1cb39fcb",
+    "title": "See pizza delivery guy take out suspect fleeing police",
+    "published_date": "2023-04-18 16:40:22",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCB90>",
+    "link": "https://www.cnn.com/2023/04/18/media/netflix-dvd-red-envelopes/index.html",
+    "id": "1d29c663-9c8d-460c-aaeb-4dc286fbb83c",
+    "title": "Netflix is winding down its DVD business after 25 years",
+    "published_date": "2023-04-18 20:10:51",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCC50>",
+    "link": "https://www.cnn.com/2023/04/18/tech/lina-khan-ai-warning/index.html",
+    "id": "0d72b9b6-8268-442c-9f88-6ea0e8dda47d",
+    "title": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+    "published_date": "2023-04-18 17:59:38",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCD10>",
+    "link": "https://www.cnn.com/2023/04/17/health/rise-type-2-diabetes-global-wellness/index.html",
+    "id": "303e5e57-b9ef-432d-8384-0b8ecf8d8448",
+    "title": "Eating too much of these foods is driving the rise in type 2 diabetes, study says",
+    "published_date": "2023-04-17 16:02:46",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCDD0>",
+    "link": "https://www.cnn.com/2023/04/18/health/teen-misuse-adhd-meds-wellness/index.html",
+    "id": "facdfce7-c1a1-41fc-81a8-635fb72896fd",
+    "title": "ADHD medication abuse in schools is a 'wake-up call'",
+    "published_date": "2023-04-25 17:44:36",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCE90>",
+    "link": "https://www.cnn.com/videos/tech/2023/04/18/apple-store-mumbai-india-ceo-tim-cook-vedika-sud-ovn-biz-ldn-vpx.cnn",
+    "id": "5bc82168-49e7-4759-a55f-934c5bf6a4d7",
+    "title": "Apple CEO was presented with an original Macintosh. See his reaction",
+    "published_date": "2023-04-18 09:17:25",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BCF50>",
+    "link": "https://www.cnn.com/2023/04/18/politics/clarence-thomas-ethics-democrats/index.html",
+    "id": "fa4f6658-058b-47af-a2e2-2d8b8861265c",
+    "title": "Democrats bash Justice Clarence Thomas but their plan to investigate ethics allegations is unclear",
+    "published_date": "2023-04-18 20:29:46",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD010>",
+    "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html",
+    "id": "1fc8286a-4a79-454e-add3-bdad92444a8e",
+    "title": "Russia is 'going backwards' in equipment and deploying post WWII-era tanks, according to Western officials",
+    "published_date": "2024-01-29 13:34:56",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD0D0>",
+    "link": "https://www.cnn.com/2023/04/17/europe/wagner-commanders-russia-kill-children-intl-hnk/index.html",
+    "id": "ca64ed8f-8a5f-4ce7-88a2-3a6cb846a5c1",
+    "title": "Two Russians claiming to be former Wagner commanders admit killing children and civilians in Ukraine",
+    "published_date": "2023-04-18 19:07:52",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD190>",
+    "link": "https://www.cnn.com/videos/business/2023/04/18/desantis-disney-competition-panel-reax-pt-vpx.cnn",
+    "id": "f66c416d-269c-46a9-ace7-3c83ad1c0f11",
+    "title": "'My stomach is hurting from laughing': Hear panelist's reaction to DeSantis' threat to Disney",
+    "published_date": "2023-04-18 03:24:56",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD250>",
+    "link": "https://www.cnn.com/2023/04/18/politics/schumer-senate-feinstein-vote-cardin/index.html",
+    "id": "99682645-2fe1-4810-b6aa-6ebbb5e4c946",
+    "title": "GOP prepared to block vote to replace Feinstein on Senate Judiciary",
+    "published_date": "2023-04-18 22:03:13",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD310>",
+    "link": "https://www.cnn.com/2023/04/18/us/mccurtain-county-oklahoma-officials-recording/index.html",
+    "id": "55128df9-8d16-493c-b30a-19d949cfd31b",
+    "title": "Oklahoma governor calls on officials to resign over recording of racist and threatening remarks",
+    "published_date": "2023-04-18 17:33:17",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD3D0>",
+    "link": "https://www.cnn.com/videos/politics/2023/04/18/kevin-mccarthy-wall-street-speech-debt-ceiling-biden-economy-vpx.cnn",
+    "id": "818dd307-6d00-4212-b9bc-be29d8852a7f",
+    "title": "McCarthy slams Biden in handling of US debt",
+    "published_date": "2023-04-18 22:03:01",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD490>",
+    "link": "https://www.cnn.com/2023/04/18/politics/us-warns-russia-zaporizhzhia-nuclear-plant/index.html",
+    "id": "85afcf03-e284-4c9b-864c-8b5c5432aa10",
+    "title": "US warns Russia not to touch American nuclear technology at Ukrainian nuclear plant",
+    "published_date": "2023-04-19 08:35:33",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD550>",
+    "link": "https://www.cnn.com/videos/world/2023/04/18/india-ex-lawmaker-atiq-ahmed-assassination-sud-pkg-contd-ovn-intl-hnk-vpx.cnn",
+    "id": "19b8eb6d-bcbe-44aa-baa3-00fa9e8b2202",
+    "title": "Repeated gunshots fired on live TV as ex-lawmaker shot by assassins",
+    "published_date": "2023-04-18 09:41:42",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD610>",
+    "link": "https://www.cnn.com/2023/04/18/health/fda-bivalent-booster-additional-doses/index.html",
+    "id": "980c5d35-6eed-4e86-9edd-56aa4e0c9577",
+    "title": "FDA clears the way for additional bivalent boosters for certain vulnerable individuals",
+    "published_date": "2023-04-18 15:09:15",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD6D0>",
+    "link": "https://www.cnn.com/2023/04/18/us/maine-shooting-bowdoin-yarmouth/index.html",
+    "id": "e1dbc346-ff6a-4979-9f86-fcdbf6d6b2b8",
+    "title": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
+    "published_date": "2023-04-19 01:49:51",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD790>",
+    "link": "https://www.cnn.com/travel/article/southwest-airlines-flight-delays/index.html",
+    "id": "08906523-8268-4fc5-90d8-e3a42400b249",
+    "title": "Southwest says flights resumed after delays caused by 'tech issues'",
+    "published_date": "2023-04-18 17:15:29",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD850>",
+    "link": "https://www.cnn.com/2023/04/18/sport/damar-hamlin-cleared-to-train-nfl-spt-intl/index.html",
+    "id": "a8e9ad1b-860c-4e47-86e6-0ca640b95370",
+    "title": "Damar Hamlin cleared to resume football activities after January cardiac arrest",
+    "published_date": "2023-04-18 22:11:37",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD910>",
+    "link": "https://www.cnn.com/videos/travel/2023/03/17/pilot-lands-on-dubai-helipad-cprog-orig-aw-ao.cnn",
+    "id": "e5325013-becd-4d0a-95a0-14b8109a50d4",
+    "title": "Pilot makes history after landing on top of a 56-story hotel",
+    "published_date": "2023-03-19 11:22:30",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BD9D0>",
+    "link": "https://www.cnn.com/2023/04/18/politics/gilday-defends-non-binary-sailor/index.html",
+    "id": "d0cd835e-dcf5-4e92-9153-c4f0bcaf164d",
+    "title": "Top US Navy admiral defends non-binary sailor amid some Republican criticism",
+    "published_date": "2023-04-18 19:56:40",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDA90>",
+    "link": "https://www.cnn.com/2023/04/18/politics/fulton-county-trump-fake-electors/index.html",
+    "id": "9835af9b-53da-421d-8ba2-2643f5e4a8f1",
+    "title": "Fulton County DA says fake Trump electors are incriminating one another and wants lawyer disqualified",
+    "published_date": "2023-04-19 15:31:24",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDB50>",
+    "link": "https://www.cnn.com/travel/article/high-speed-rail-us/index.html",
+    "id": "7b6a398b-576c-4073-81c9-755ef5858080",
+    "title": "High speed trains are racing across the world. But not in America",
+    "published_date": "2023-04-19 02:39:40",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDC10>",
+    "link": "https://qz.com/ai-girlfriend-chatbots-openai-gpt-store-relationships-1851198193",
+    "id": "d76a8f49-8030-4fbb-9452-bc0a8c65f926",
+    "title": "AI girlfriend chatbots won't last",
+    "published_date": "2024-01-27 10:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDCD0>",
+    "link": "https://www.cnn.com/audio/podcasts/the-assignment/episodes/42a2f0e2-066a-4675-82ff-afe2016a0bb5",
+    "id": "2300dd20-8b34-4225-8fb8-595e8071599c",
+    "title": "Podcast: One country musician is calling for other artists to oppose assault rifles",
+    "published_date": "2024-01-29 13:34:56",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDD90>",
+    "link": "https://www.cnn.com/2023/04/18/success/tax-day-2023-file-irs/index.html",
+    "id": "67fc0fe3-ae13-4c5c-b8b0-5cf15064594e",
+    "title": "Here's what you need to know if you haven't filed your return yet \u2014 and even if you have",
+    "published_date": "2023-04-18 14:15:43",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDE50>",
+    "link": "https://www.cnn.com/2023/04/18/us/undocumented-immigrants-taxes-cec/index.html",
+    "id": "7f95f0fb-4f13-4120-833c-19712c24d63b",
+    "title": "Undocumented immigrants are paying their taxes today, too",
+    "published_date": "2023-04-18 18:29:24",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDF10>",
+    "link": "https://www.cnn.com/2023/04/17/opinions/us-tax-system-wealthy-disney-pearl/index.html",
+    "id": "6caf2ca3-cd69-4e1a-8bd3-cee1c9721645",
+    "title": "Opinion: Why millionaires like us want to pay more in taxes",
+    "published_date": "2023-04-17 19:32:49",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BDFD0>",
+    "link": "https://www.cnn.com/travel/article/worlds-longest-cycling-tunnel/index.html",
+    "id": "3205d88a-2b22-45e4-bcf8-f68b21023aa4",
+    "title": "'World's longest' purpose-built cycling tunnel opens in Norway",
+    "published_date": "2023-04-18 10:44:27",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE090>",
+    "link": "https://www.cnn.com/style/article/ai-photo-win-sony-scli-intl/index.html",
+    "id": "33fd3cde-6aa7-47e0-9bb4-1d22201c0b44",
+    "title": "Artist rejects photo prize after AI-generated image wins award",
+    "published_date": "2023-04-18 15:27:54",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE150>",
+    "link": "https://www.cnn.com/videos/travel/2023/04/18/century-old-shipwrecks-lake-superior-discovery-contd-orig-zt.cnn",
+    "id": "32dd6ece-7bfc-48f1-b610-e8b444291f37",
+    "title": "These ships disappeared in Lake Superior a century ago. Watch as they're found again",
+    "published_date": "2023-04-18 19:29:01",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE210>",
+    "link": "https://www.cnn.com/style/article/marilyn-minter-artist-elder-sex/index.html",
+    "id": "94c03c66-69fa-47bb-ad79-2b67ea1d1b5c",
+    "title": "Erotic images of seniors show sex and intimacy in new light",
+    "published_date": "2023-04-18 03:24:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE2D0>",
+    "link": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "id": "eaaa47b8-1877-40f9-8d57-83021c155d4c",
+    "title": "China's economy is off to a solid start, rising 4.5% in Q1 2023",
+    "published_date": "2023-04-18 07:01:12",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE390>",
+    "link": "https://www.cnn.com/2023/04/16/success/husbands-wives-earning-division-of-labor-pew-survey/index.html",
+    "id": "fef14974-b6c7-4e30-939d-8b23ea2a0ebb",
+    "title": "Even when wives make as much as husbands, they still do more at home",
+    "published_date": "2023-04-16 17:29:49",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE450>",
+    "link": "https://www.cnn.com/2023/04/17/business/mcdonalds-burgers/index.html",
+    "id": "0f1c4730-4d24-45fe-b212-e26affa26f6b",
+    "title": "McDonald's is upgrading its burgers",
+    "published_date": "2023-04-17 16:31:30",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE510>",
+    "link": "https://www.cnn.com/2023/04/17/tech/google-ai-search-engine-stock-drop/index.html",
+    "id": "36073a26-cc74-43b1-a20c-19b2bfe4ccdb",
+    "title": "Google-parent stock drops on fears it could lose search market share to AI-powered rivals",
+    "published_date": "2023-04-17 15:52:19",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE5D0>",
+    "link": "https://www.cnn.com/cnn-underscored/reviews/best-bidets?iid=CNNUnderscoredHPcontainer",
+    "id": "a52e4b87-5d7b-4785-97b4-81bb30d1bd92",
+    "title": "Bidets save you money and reduce waste \u2014 we tested the best options out there",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE690>",
+    "link": "https://www.cnn.com/cnn-underscored/home/editors-favorite-sustainable-products?iid=CNNUnderscoredHPcontainer",
+    "id": "7c07ae2d-4284-4684-acc3-f14a3619e79f",
+    "title": "50+ products to make your life easier and our planet cleaner",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE750>",
+    "link": "https://www.cnn.com/cnn-underscored/gifts/best-mothers-day-gifts-2023?iid=CNNUnderscoredHPcontainer",
+    "id": "75ce416c-a23b-4551-b98a-1b5ea84eb467",
+    "title": "Mother's Day is around the corner. Here are 50+ thoughtful gifts she'll love",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE810>",
+    "link": "https://www.cnn.com/cnn-underscored/fashion/mens-spring-fashion-style-guide?iid=CNNUnderscoredHPcontainer",
+    "id": "39ab437a-a818-4263-9570-e9d7a087e902",
+    "title": "A head-to-toe guide of how men should dress this spring, and where they should shop",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE8D0>",
+    "link": "https://www.cnn.com/cnn-underscored/travel/amazon-travel-products?iid=CNNUnderscoredHPcontainer",
+    "id": "0d0fd10c-3e25-4883-9811-431e81acb372",
+    "title": "42 of the most useful travel products you can buy on Amazon",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BE990>",
+    "link": "https://www.cnn.com/cnn-underscored/money/high-yield-savings-accounts?iid=CNNUnderscoredHPcontainer",
+    "id": "0dbaaf02-c591-44d6-8299-137b7b4d841c",
+    "title": "The 7 best high-yield savings accounts of April 2023",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEA50>",
+    "link": "https://www.cnn.com/cnn-underscored/money/how-to-file-taxes?iid=CNNUnderscoredHPcontainer",
+    "id": "a8e0dedb-4ad8-47b7-95a2-0b3b7dca595d",
+    "title": "Taxes are due tomorrow. Here's how to file for an extension",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEB10>",
+    "link": "https://www.cnn.com/cnn-underscored/home/how-to-compost-at-home?iid=CNNUnderscoredHPcontainer",
+    "id": "8d340c5b-2349-4556-a6a4-c929c6e5dea2",
+    "title": "Composting is an easy way to reduce food waste. Here's how to do it",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEBD0>",
+    "link": "https://www.cnn.com/cnn-underscored/reviews/mmmat-silicone-mats?iid=CNNUnderscoredHPcontainer",
+    "id": "9e0c41d0-4e19-4817-9a59-8f239000ee32",
+    "title": "We stopped using aluminum foil for cooking and you should too. Here's what to use instead",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEC90>",
+    "link": "https://www.cnn.com/cnn-underscored/deals/dyson-supersonic-sale-2023-04-17?iid=CNNUnderscoredHPcontainer?iid=CNNUnderscoredHPcontainer",
+    "id": "e43444c9-be02-4400-9033-c2d63e38cdad",
+    "title": "The beloved Dyson Supersonic hair dryer is at its lowest price ever",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BED50>",
+    "link": "https://www.cnn.com/cnn-underscored/deals/wayfair-way-day-2023-04-17?iid=CNNUnderscoredHPcontainer",
+    "id": "3ab19f33-3ad2-4baa-a52e-d56ed7998993",
+    "title": "Everything you need to know about Way Day 2023, Wayfair's biggest sale of the year",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEE10>",
+    "link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-deals-2023-04-12?iid=CNNUnderscoredHPcontainer",
+    "id": "9091391c-075a-4b6a-9de7-33c9376aa04b",
+    "title": "The 10 best Amazon deals to shop this week",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEED0>",
+    "link": "https://www.cnn.com/2023/04/18/opinions/medication-abortion-mifepristone-miscarriage-jones-ctpr/index.html",
+    "id": "0d5e7673-552f-4c59-b0e8-04cbeb2d85af",
+    "title": "Mifepristone saved my life",
+    "published_date": "2023-04-18 11:30:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BEF90>",
+    "link": "https://www.cnn.com/2023/04/18/opinions/2024-presidential-election-alternative-voters-lieberman",
+    "id": "03468634-d010-4578-9140-7edcfbf1d385",
+    "title": "The 2024 presidential alternative many voters will want",
+    "published_date": "2024-01-29 13:34:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF050>",
+    "link": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
+    "id": "a2994c00-4455-49bd-9066-c932a2026f5c",
+    "title": "Why isn't the House Judiciary Committee looking into Thomas?",
+    "published_date": "2023-04-17 11:37:37",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF110>",
+    "link": "https://www.cnn.com/2023/04/16/opinions/top-secrets-come-spilling-out-opinion-column-galant/index.html",
+    "id": "b82f5b73-ae8c-418d-b305-dd75fc521952",
+    "title": "Top secrets come spilling out",
+    "published_date": "2023-04-16 11:22:36",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF1D0>",
+    "link": "https://www.cnn.com/2023/04/17/opinions/sudan-revolution-to-civil-war-lynch/index.html",
+    "id": "3b47ac8f-f9f1-46f0-8db9-ad5dcec99faa",
+    "title": "How did Sudan go from casting off despotic rule to this?",
+    "published_date": "2023-04-17 22:45:23",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF290>",
+    "link": "https://www.cnn.com/2023/04/18/entertainment/michelle-yeoh-star-trek-section-31/index.html",
+    "id": "81d8c3b5-9104-4d64-a203-1991b4fe1e99",
+    "title": "Michelle Yeoh set to return in new 'Star Trek' movie",
+    "published_date": "2023-04-18 19:11:23",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF350>",
+    "link": "https://www.cnn.com/2023/04/16/entertainment/succession-season-4-episode-4-recap/index.html",
+    "id": "f2fec454-2d6a-4b12-a92b-bc688e3ae988",
+    "title": "Recap: 'Succession' finds dark humor in the aftershocks",
+    "published_date": "2023-04-17 02:28:12",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF410>",
+    "link": "https://www.cnn.com/2023/04/14/entertainment/yellowjackets-90s-music/index.html",
+    "id": "f4f10049-c066-4555-89a6-505fac676bc5",
+    "title": "'Yellowjackets' leans hard into '90s music nostalgia, and we're here for it",
+    "published_date": "2023-05-01 23:02:04",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF4D0>",
+    "link": "https://www.cnn.com/2023/04/16/entertainment/jeremy-renner-update/index.html",
+    "id": "c9231429-bc44-476f-9cbf-efc98602e082",
+    "title": "Jeremy Renner revisits 'the amazing group of people' who helped him recover from his accident",
+    "published_date": "2023-04-16 19:04:10",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF590>",
+    "link": "https://www.cnn.com/2023/04/14/entertainment/barry-season-4-review/index.html",
+    "id": "3ad5dd57-6d80-4623-bed6-275e1b3dc215",
+    "title": "Review: 'Barry' takes a whack at its farewell season",
+    "published_date": "2023-04-14 12:33:08",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF650>",
+    "link": "https://qz.com/mcdonalds-economy-impact-1851204982",
+    "id": "10ee75fb-516a-4d30-9e84-151b9a7ddd4a",
+    "title": "How McDonald\u2019s powers America's economy",
+    "published_date": "2024-01-29 13:02:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF710>",
+    "link": "https://qz.com/openai-gpt-store-chatbots-1851204964",
+    "id": "fe766725-404c-4257-a3c3-2e4aeee89222",
+    "title": "From AI girlfriend chatbots to... Hitler?! The weirdest of OpenAI's GPT Store",
+    "published_date": "2024-01-29 12:58:58",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF7D0>",
+    "link": "https://qz.com/amazon-prime-video-ads-streaming-1851204957",
+    "id": "9d4f8392-9e25-46bd-bedd-c38ce2a8b67f",
+    "title": "Amazon Prime Video just got ads \u2014 and it's the end of a streaming era",
+    "published_date": "2024-01-29 12:50:42",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF890>",
+    "link": "https://qz.com/t-j-maxx-and-thrift-stores-are-siphoning-shoppers-from-1851202451",
+    "id": "16e5bf92-e3a3-4adf-af68-ae580027e338",
+    "title": "T.J. Maxx and thrift stores are siphoning shoppers from full-price rivals",
+    "published_date": "2024-01-29 10:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BF950>",
+    "link": "https://qz.com/new-york-san-francisco-return-to-office-1851201948",
+    "id": "345f838f-03f9-430c-971a-bf91c81e9c18",
+    "title": "New York is lapping San Francisco in the return-to-office race",
+    "published_date": "2024-01-28 10:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFA10>",
+    "link": "https://qz.com/weekend-tech-innovation-roundup-january-27-2024-1851201024",
+    "id": "1f73ae14-e6d9-4448-9216-96a76390f4e8",
+    "title": "Weekend Tech Innovation Roundup January 27, 2024",
+    "published_date": "2024-01-27 09:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFAD0>",
+    "link": "https://qz.com/weekend-money-markets-roundup-january-27-2024-1851201022",
+    "id": "cdd391e8-b691-458f-ad58-dc695dfbd0aa",
+    "title": "Weekend Money Markets Roundup January 27, 2024",
+    "published_date": "2024-01-27 09:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFB90>",
+    "link": "https://qz.com/weekend-business-news-roundup-january-27-2024-1851201021",
+    "id": "700dca71-c8b9-47ab-8580-de1cccb58b3a",
+    "title": "Weekend Business News Roundup January 27, 2024",
+    "published_date": "2024-01-27 09:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFC50>",
+    "link": "https://qz.com/amex-members-expensed-100-billion-restaurants-2023-1851202356",
+    "id": "79f1cfdd-35c2-4f04-bc26-fe747e212bbf",
+    "title": "AmEx members expensed $100 billion at restaurants last year",
+    "published_date": "2024-01-26 21:43:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFD10>",
+    "link": "https://qz.com/microsoft-amazon-google-ai-investments-ftc-1851202060",
+    "id": "7ad663f5-497a-4afe-80d5-07f4bfd013d5",
+    "title": "Big Tech's investments in AI has regulators asking Microsoft, Amazon, and Google some questions",
+    "published_date": "2024-01-26 21:40:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFDD0>",
+    "link": "https://qz.com/google-amazon-apple-tech-layoffs-1851173569",
+    "id": "ef05dd80-78a2-4a5f-a44e-3cb234ed5d3e",
+    "title": "Microsoft, Google, Salesforce, and more: 2024 starts with tech layoffs already set to surpass last year",
+    "published_date": "2024-01-26 19:37:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFE90>",
+    "link": "https://qz.com/biden-pause-biggest-natural-gas-export-project-1851201347",
+    "id": "a62a9d33-ed18-4644-8b14-8b2cfade5c79",
+    "title": "Biden's natural gas export pause adds to his mixed climate record",
+    "published_date": "2024-01-26 19:24:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BFF50>",
+    "link": "https://qz.com/southwest-american-and-delta-feel-the-impacts-of-boei-1851200829",
+    "id": "6350f909-824e-49de-ada2-f9b6297a2d37",
+    "title": "Southwest, American, and Delta are feeling the impacts of Boeing's troubles",
+    "published_date": "2024-01-26 17:53:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8050>",
+    "link": "https://qz.com/elon-musks-ai-startup-is-reportedly-looking-to-raise-up-1851200609",
+    "id": "362b922e-da63-43ed-bf5a-2a4f68fa0149",
+    "title": "Elon Musk's AI startup is reportedly looking to raise up to $6 billion",
+    "published_date": "2024-01-26 16:54:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8110>",
+    "link": "https://qz.com/emails/daily-brief/1851199044/is-2024-the-year-of-tech-layoffs",
+    "id": "767ebc49-24c0-4ce5-8132-39c548607dc7",
+    "title": "\ud83c\udf0e Is 2024 the year of tech layoffs?",
+    "published_date": "2024-01-26 13:06:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B81D0>",
+    "link": "https://qz.com/europe-china-economic-security-1851199793",
+    "id": "46a8f886-8636-41e2-8cb1-981d55644ee8",
+    "title": "Europe's economic security plan needs to play both defense and offense",
+    "published_date": "2024-01-26 10:01:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8290>",
+    "link": "https://qz.com/sephora-tweens-lvmh-profits-boost-1851198488",
+    "id": "1d9130a0-998c-4ddf-a35d-c8d678bb3dda",
+    "title": "Sephora tweens are giving LVMH's profits a nice glow",
+    "published_date": "2024-01-25 22:20:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8350>",
+    "link": "https://qz.com/tech-layoffs-might-surpass-2023-1851198088",
+    "id": "d42f55e1-60c4-4083-856b-e533287e2042",
+    "title": "Tech layoffs are already on pace to surpass last year after another brutal week",
+    "published_date": "2024-01-25 21:46:48",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8410>",
+    "link": "https://qz.com/fed-interest-rate-cuts-not-coming-soon-1851197420",
+    "id": "95c69f23-7cbf-486b-8dac-4ce21cef2a11",
+    "title": "The Fed hasn't killed the economy yet",
+    "published_date": "2024-01-25 19:44:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B84D0>",
+    "link": "https://qz.com/shopping-is-driving-us-economy-1851196614",
+    "id": "79a741b0-b3b7-4436-b2a8-618f92480d84",
+    "title": "Americans are shopping their way to a stronger economy",
+    "published_date": "2024-01-25 17:48:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8590>",
+    "link": "https://qz.com/how-to-find-a-new-job-and-make-more-money-your-wallet-1851197222",
+    "id": "4fda85a9-3c08-4211-817c-41fe3b9e06bf",
+    "title": "How to find a new job and make more money | Your Wallet",
+    "published_date": "2024-01-25 17:39:27",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8650>",
+    "link": "https://qz.com/tesla-outlook-ev-import-soar-1851196877",
+    "id": "8a2c5eda-4e5d-48d8-83e5-d03cbd9c4540",
+    "title": "Tesla\u2019s time in the sun is over as EV imports are soaring",
+    "published_date": "2024-01-25 17:27:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8710>",
+    "link": "https://qz.com/emails/space-business/1851194792/space-business-a-lunar-new-year",
+    "id": "79d712b0-43af-4273-b612-08caa4dac70b",
+    "title": "\ud83d\ude80 Space Business: A lunar new year",
+    "published_date": "2024-01-25 15:59:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B87D0>",
+    "link": "https://qz.com/737-max-9-united-alaska-return-to-air-1851196101",
+    "id": "e2ffb620-8ef6-4ce1-87ac-7afad1c791f0",
+    "title": "United and Alaska Airlines' Boeing 737 Max 9 planes will return to the air",
+    "published_date": "2024-01-25 15:07:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8890>",
+    "link": "https://qz.com/subway-meat-slicers-1851195872",
+    "id": "0dfb747c-d09e-4e20-8adf-8d961053951d",
+    "title": "Subway made a big investment in new meat slicers and it's not looking good",
+    "published_date": "2024-01-25 13:42:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8950>",
+    "link": "https://qz.com/selling-houses-less-profitable-2023-1851194261",
+    "id": "d0219ed5-988c-4def-bd37-ee46edc1c5e0",
+    "title": "Huge market headwinds made house flipper profits less gigantic last year",
+    "published_date": "2024-01-25 05:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8A10>",
+    "link": "https://qz.com/most-powerful-passports-2024-world-rankings-1851177985",
+    "id": "795d2971-34d0-4660-8cc4-1be87570291a",
+    "title": "2024's most powerful passports ranked",
+    "published_date": "2024-01-24 21:28:31",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8AD0>",
+    "link": "https://qz.com/tesla-stock-down-magnificent-seven-microsoft-apple-1851194022",
+    "id": "1868bc19-5323-4369-9904-2a95886db53a",
+    "title": "Tesla has been a tech stock stinker as Microsoft joins Apple in the $3 trillion club",
+    "published_date": "2024-01-24 21:23:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8B90>",
+    "link": "https://qz.com/emails/quartz-obsession/1851193320/shah-rukh-khan-the-king-of-cinema-is-back",
+    "id": "dfe11507-e3eb-46bb-9ec4-9f617faa1eab",
+    "title": "Shah Rukh Khan: The king of cinema is back",
+    "published_date": "2024-01-24 21:08:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8C50>",
+    "link": "https://qz.com/netflix-password-sharing-crackdown-and-price-hikes-are-1851193478",
+    "id": "4d863364-ca9c-4908-8908-66b73d332a34",
+    "title": "Netflix password-sharing crackdown and price hikes will drive revenue 'for years'",
+    "published_date": "2024-01-24 20:10:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8D10>",
+    "link": "https://qz.com/fighting-red-sea-oil-prices-increasing-1851192473",
+    "id": "e28a7013-34cf-4c17-beec-b4249fadfec1",
+    "title": "It turns out oil gets more expensive to ship when boats go boom in the Red Sea",
+    "published_date": "2024-01-24 19:31:07",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8DD0>",
+    "link": "https://qz.com/afm-amptp-musicians-union-artificial-intelligence-1851192257",
+    "id": "e1a75c1f-52af-4dd3-a08b-d0d7557a96c1",
+    "title": "Musicians are bargaining with Hollywood over AI",
+    "published_date": "2024-01-24 19:31:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8E90>",
+    "link": "https://qz.com/emails/quartz-at-work/1851192214/writing-your-resume-for-a-robot",
+    "id": "46c47630-276e-4dea-afc5-f99258fb4b1b",
+    "title": "Writing your resume for a robot",
+    "published_date": "2024-01-24 15:01:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B8F50>",
+    "link": "https://qz.com/best-jobs-2024-indeed-mental-healthcare-1851190781",
+    "id": "6975ac67-d530-47e8-8b75-7f52d64eb082",
+    "title": "The best jobs of 2024, according to Indeed",
+    "published_date": "2024-01-24 15:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9010>",
+    "link": "https://qz.com/why-the-us-economy-might-be-headed-for-a-bumpy-landing-1851189884",
+    "id": "d105c534-119d-40fb-a6a6-7d0443d05116",
+    "title": "Why the US economy might be headed for a bumpy landing | Smart Investing",
+    "published_date": "2024-01-24 12:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B90D0>",
+    "link": "https://qz.com/hr-software-ai-algorithms-bias-1851190372",
+    "id": "b3d53df4-acd7-4321-b671-3d5e25fc39a5",
+    "title": "AI is coming for your job application long before it comes for your job",
+    "published_date": "2024-01-24 10:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9190>",
+    "link": "https://qz.com/united-airlines-says-its-growth-will-slow-for-years-bec-1851189943",
+    "id": "1669c93e-2165-4630-b090-15beebcac4bf",
+    "title": "United Airlines says growth will slow for years because of Boeing's 737 troubles",
+    "published_date": "2024-01-23 23:26:50",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9250>",
+    "link": "https://qz.com/lots-of-people-started-selling-bitcoin-after-the-sec-ma-1851190395",
+    "id": "1399d4f4-e28a-454a-90ab-79f67e423832",
+    "title": "Lots of people started selling bitcoin after the SEC made it easier to buy",
+    "published_date": "2024-01-23 23:25:48",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9310>",
+    "link": "https://qz.com/brex-once-a-silicon-valley-darling-is-laying-off-20-1851189051",
+    "id": "60e06f22-5922-4fcb-913c-8011c6cacf15",
+    "title": "Brex, once a Silicon Valley darling, is laying off 20% of its workforce",
+    "published_date": "2024-01-23 18:42:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B93D0>",
+    "link": "https://qz.com/netflix-is-paying-5-billion-to-be-the-home-of-wwes-mon-1851188480",
+    "id": "a9659ceb-90e2-4f81-aa3e-0218828da59b",
+    "title": "Netflix is paying $5 billion to be the home of WWE's Monday Night Raw",
+    "published_date": "2024-01-23 18:39:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9490>",
+    "link": "https://qz.com/tiktok-workers-feel-techs-troubles-as-the-company-cuts-1851188391",
+    "id": "8813492b-dc1a-454a-a06c-5c9c19ef304d",
+    "title": "TikTok workers feel tech's troubles as the company cuts 60 jobs",
+    "published_date": "2024-01-23 15:01:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9550>",
+    "link": "https://qz.com/china-import-fewer-semiconductors-more-chipmaking-machi-1851188247",
+    "id": "7a940e19-6a11-4efb-84b5-df6ce27d48fd",
+    "title": "China is importing fewer chips and more chipmaking machines",
+    "published_date": "2024-01-23 14:29:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9610>",
+    "link": "https://qz.com/china-taiwan-intermediate-goods-1851187726",
+    "id": "0cd4b8d4-a9cb-4770-9848-1679f0209e72",
+    "title": "One way China is growing more dependent on Taiwan",
+    "published_date": "2024-01-23 12:00:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B96D0>",
+    "link": "https://qz.com/1-8-billion-reasons-why-wall-street-loves-the-fashion-w-1851186408",
+    "id": "81f919bb-259c-4a41-a63f-b47816653658",
+    "title": "1.8 billion reasons why Wall Street loves the fashion world's favorite hiking sneakers",
+    "published_date": "2024-01-22 22:21:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9790>",
+    "link": "https://qz.com/millions-live-near-us-railways-shipping-the-toxic-chemi-1851186374",
+    "id": "73f2fe0c-8d08-4531-b799-44d2a275a374",
+    "title": "Millions live near US railways shipping the toxic chemical that contaminated East Palestine, Ohio",
+    "published_date": "2024-01-22 22:04:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9850>",
+    "link": "https://qz.com/mit-research-jobs-ai-computer-vision-high-cost-1851184898",
+    "id": "47f9a5a8-0998-460f-b10e-5f14230b7cc3",
+    "title": "It's expensive to replace humans with AI, MIT says",
+    "published_date": "2024-01-22 21:46:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9910>",
+    "link": "https://www.foxnews.com/politics/white-house-developers-powerful-ai-systems-report-safety-test-results-government",
+    "id": "878c7942-889a-40df-ba29-335b85dcd417",
+    "title": "White House: Developers of \u2018powerful AI systems\u2019 now have to report safety test results to government",
+    "published_date": "2024-01-29 08:30:10",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B99D0>",
+    "link": "https://www.foxnews.com/politics/red-states-pushing-block-abortion-measures-statewide-ballots-2024-election",
+    "id": "7b5393dc-f8ff-44b4-ad83-7bf873c978ce",
+    "title": "Red states pushing to block abortion measures from statewide ballots ahead of 2024 election",
+    "published_date": "2024-01-29 07:16:49",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9A90>",
+    "link": "https://www.foxnews.com/politics/new-jersey-democrats-seeking-cover-out-pocket-abortion-costs",
+    "id": "be3fc40a-71e3-43e7-8d97-0f8134fa1be2",
+    "title": "New Jersey Democrats seeking to cover out-of-pocket abortion costs",
+    "published_date": "2024-01-29 05:42:53",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9B50>",
+    "link": "https://www.foxnews.com/politics/nsa-purchases-americans-internet-browsing-data-without-warrants-senator-documents",
+    "id": "3172018c-1586-4f6d-8dab-0952ee668d97",
+    "title": "NSA purchases Americans' internet browsing data without warrants, senator's documents show",
+    "published_date": "2024-01-29 04:27:50",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9C10>",
+    "link": "https://www.foxnews.com/politics/house-lawmakers-shine-light-how-ai-make-congress-more-efficient",
+    "id": "7559b260-7356-488c-ace2-ac186c0d5e56",
+    "title": "House lawmakers to shine light on how AI can make Congress \u2018more efficient\u2019",
+    "published_date": "2024-01-29 04:00:48",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9CD0>",
+    "link": "https://www.foxnews.com/politics/trump-aides-sentence-defying-congress-highlights-two-tier-justice-system-observer",
+    "id": "014d83ca-712a-48b4-85d8-b0ea3d8e28d3",
+    "title": "Trump aide's sentence for defying Congress highlights 'two-tier' justice system: observer",
+    "published_date": "2024-01-29 04:00:45",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9D90>",
+    "link": "https://www.foxnews.com/politics/vulnerable-house-dem-caught-zoom-call-lamenting-trump-kool-aid-voters-district",
+    "id": "eeb2e56b-1314-403a-925e-30a121199bbe",
+    "title": "Vulnerable House Dem caught on Zoom call lamenting 'Trump Kool-Aid' voters in her district",
+    "published_date": "2024-01-29 04:00:31",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9E50>",
+    "link": "https://www.foxnews.com/politics/republicans-probe-ccp-tied-nonprofit-funneling-money-us-eco-groups",
+    "id": "5713ad78-5efd-49e1-9241-58c8ba318cf5",
+    "title": "Republicans probe CCP-tied nonprofit funneling money to US eco groups",
+    "published_date": "2024-01-29 04:00:29",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9F10>",
+    "link": "https://www.foxnews.com/politics/former-green-beret-shreds-criminally-incompetent-biden-stresses-need-more-veterans-congress",
+    "id": "f96aacd1-eccd-4988-bf45-479c8230f27b",
+    "title": "Former Green Beret shreds 'criminally incompetent' Biden, stresses need for more veterans in Congress",
+    "published_date": "2024-01-29 04:00:25",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1B9FD0>",
+    "link": "https://www.foxnews.com/politics/republican-ex-judge-argued-trump-engaged-insurrection-should-removed-illinois-primary-ballot",
+    "id": "9da1030e-6c9c-4b38-9fd4-242437d244a4",
+    "title": "Republican ex-judge argued Trump engaged in insurrection, should be removed from Illinois primary ballot",
+    "published_date": "2024-01-28 19:53:25",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA090>",
+    "link": "https://www.foxnews.com/politics/brazen-attack-trump-biden-3-us-services-members-killed-iran-backed-militia",
+    "id": "b77fc9a6-20bf-4ed9-93c4-996337701f9f",
+    "title": "'Brazen attack': Trump blasts Biden after 3 US service members killed by Iran-backed militia",
+    "published_date": "2024-01-28 17:44:40",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA150>",
+    "link": "https://www.foxnews.com/politics/iran-backed-militia-kills-3-us-troops-just-weeks-biden-said-tehran-knows-not-do-anything",
+    "id": "60670d93-c7fd-45f8-bdca-f3df21ee3c78",
+    "title": "Iran-backed militia kills 3 US troops just weeks after Biden said Tehran knows 'not to do anything'",
+    "published_date": "2024-01-28 16:47:14",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA210>",
+    "link": "https://www.foxnews.com/politics/haley-blasts-rnc-rushing-trump-nominee-calls-americans-remember-what-normal-felt-like",
+    "id": "ff0af901-6c5a-4313-b3a5-d59f50d0662b",
+    "title": "Haley blasts RNC for rushing to Trump as nominee, calls on Americans to 'remember what normal felt like'",
+    "published_date": "2024-01-28 15:08:40",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA2D0>",
+    "link": "https://www.foxnews.com/politics/illinois-suburb-scraps-migrant-housing-sign-up-sheet-councilmans-viral-proposal-residents",
+    "id": "cb4aa5a9-7c45-4a96-92ac-cae0ca60cc74",
+    "title": "Illinois suburb scraps migrant housing 'sign-up' sheet after councilman\u2019s viral proposal to residents",
+    "published_date": "2024-01-28 14:57:13",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA390>",
+    "link": "https://www.foxnews.com/politics/lankford-cites-election-year-waning-gop-support-border-bill-not-about-letting-5000-people-a-day",
+    "id": "dfeb7705-0696-4a46-85bf-e9fd4d635022",
+    "title": "Lankford cites 'election year' for waning GOP support on border bill: 'Not about letting 5000 people in a day'",
+    "published_date": "2024-01-28 14:42:19",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA450>",
+    "link": "https://www.foxnews.com/politics/trump-admin-cut-funding-un-agency-now-accused-participating-hamas-attack-reason-rep-mccaul",
+    "id": "86728600-4e80-4a59-9316-027baa75377a",
+    "title": "Trump admin cut funding to UN agency now accused of participating in Hamas attack \u2018for reason\u2019: Rep. McCaul",
+    "published_date": "2024-01-28 14:14:55",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA510>",
+    "link": "https://www.foxnews.com/politics/newsom-claims-biden-border-plan-blames-republicans-standing-way",
+    "id": "c9fe416b-5f80-4770-8049-bbf361825e92",
+    "title": "Newsom claims Biden has border plan, blames Republicans for standing in the way",
+    "published_date": "2024-01-28 13:19:55",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA5D0>",
+    "link": "https://www.foxnews.com/politics/aoc-says-biden-can-do-more-earn-votes-just-attack-trump",
+    "id": "c627b911-6135-4284-8658-05cfa450f7e3",
+    "title": "AOC says Biden 'can do more' to earn votes than just attack Trump",
+    "published_date": "2024-01-28 11:56:53",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA690>",
+    "link": "https://www.foxnews.com/politics/3-american-troops-killed-25-injured-attack-jordan-base-near-syria-border",
+    "id": "98688935-e37e-455f-8483-9d7afd7ed73e",
+    "title": "3 American troops killed, 25 injured in attack on Jordan base near Syria border",
+    "published_date": "2024-01-28 11:39:39",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA750>",
+    "link": "https://www.foxnews.com/politics/e-jean-carrolls-claims-against-trump-lifestyle-back-under-spotlight-eye-popping-verdict",
+    "id": "3c5b4a4b-1fc1-4a68-89e8-ec2ffe36e1aa",
+    "title": "E. Jean Carroll's claims against Trump, lifestyle back under the spotlight after eye-popping verdict",
+    "published_date": "2024-01-28 11:04:41",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA810>",
+    "link": "https://www.foxnews.com/politics/house-republicans-unveil-articles-impeachment-dhs-sec-mayorkas",
+    "id": "5b55393f-fdec-483f-bcd4-cef8cb1a0337",
+    "title": "House Republicans unveil articles of impeachment against DHS Sec. Mayorkas",
+    "published_date": "2024-01-28 09:07:25",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA8D0>",
+    "link": "https://www.foxnews.com/politics/snopes-admits-biden-wore-construction-hard-hat-backwards-fact-check-reversal",
+    "id": "f3dad00a-2f7c-45c8-9c25-36e8780b3fe3",
+    "title": "Snopes admits Biden wore construction hard hat backwards in 'fact check' reversal",
+    "published_date": "2024-01-28 08:47:54",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BA990>",
+    "link": "https://www.foxnews.com/politics/trump-ally-moreno-picks-noem-endorsement-rises-top-ohio-republican-vying-boot-democrat-sherrod-brown",
+    "id": "c8769f05-a8c4-4a3b-99d9-a56d6d117435",
+    "title": "Trump ally Moreno picks up Noem endorsement, rises to top Ohio Republican vying to boot Democrat Sherrod Brown",
+    "published_date": "2024-01-28 07:20:24",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAA50>",
+    "link": "https://www.foxnews.com/politics/house-gop-hear-additional-witness-testimony-hunter-biden-business-partners-amid-impeachment-inquiry",
+    "id": "9197fc5d-9e5e-4444-a35c-f3864a8430f4",
+    "title": "House GOP to hear additional witness testimony from Hunter Biden business partners amid impeachment inquiry",
+    "published_date": "2024-01-28 04:00:41",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAB10>",
+    "link": "https://www.foxnews.com/politics/trump-team-made-early-attempts-recruit-rfk-jr-former-presidents-running-mate-report",
+    "id": "2d81e851-023e-466a-b474-75f9efba89e3",
+    "title": "Trump team made \u2018early on\u2019 attempts to recruit RFK Jr. as former president's running mate: report",
+    "published_date": "2024-01-27 13:48:35",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BABD0>",
+    "link": "http://www.pbs.org/newshour/bb/xi-jinping-celebrates-chinas-rising-power/",
+    "id": "23306db5-c635-4cd5-928e-1bb3b42c8933",
+    "title": "Xi Jinping celebrates China\u2019s rising power \u2014 and his own",
+    "published_date": "2017-10-18 22:35:21",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAC90>",
+    "link": "http://www.pbs.org/newshour/bb/battle-mosul-hidden-isis-danger-lurk-years/",
+    "id": "aa6bbd23-97dc-4e5d-8e21-96bc509c5452",
+    "title": "The battle for Mosul is over, but this hidden ISIS danger could lurk for years",
+    "published_date": "2017-10-18 22:20:26",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAD50>",
+    "link": "http://www.pbs.org/newshour/rundown/rohingya-refugees-continue-flee-persecution-heres-can-help/",
+    "id": "c46de948-d436-423b-88ed-6ddd4d0eaf26",
+    "title": "As Rohingya refugees continue to flee from persecution, here\u2019s how you can help",
+    "published_date": "2017-10-18 20:58:34",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAE10>",
+    "link": "http://www.pbs.org/newshour/rundown/tillerson-heartbreaking-reports-suffering-myanmar/",
+    "id": "f292b618-ffee-4dc4-8e0e-cb7dfb562f35",
+    "title": "Tillerson: \u2018Heartbreaking\u2019 reports of suffering in Myanmar",
+    "published_date": "2017-10-18 15:36:51",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAED0>",
+    "link": "http://www.pbs.org/newshour/bb/far-right-groups-gain-ground-sweden-germany-amid-migrant-influx/",
+    "id": "b9249798-a301-4ec9-bf8e-a2f79e5e278b",
+    "title": "Far-right groups gain ground in Sweden and Germany amid migrant influx",
+    "published_date": "2017-10-17 22:30:37",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BAF90>",
+    "link": "http://www.pbs.org/newshour/rundown/u-s-backed-syrian-forces-recapture-raqqa-from-islamic-state-group/",
+    "id": "2e7f0b5d-e7bd-4959-96da-9e9b2f3b7565",
+    "title": "U.S.-backed Syrian forces recapture Raqqa from Islamic State group",
+    "published_date": "2017-10-17 16:57:20",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB050>",
+    "link": "http://www.pbs.org/newshour/rundown/watch-live-trump-and-greek-prime-minister-hold-joint-press-conference/",
+    "id": "87f0ec74-41e5-4a8f-803f-5e19dab289f3",
+    "title": "WATCH: Trump and Greek prime minister hold joint news conference",
+    "published_date": "2017-10-17 16:28:24",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB110>",
+    "link": "http://www.pbs.org/newshour/rundown/u-s-japan-agree-maximize-diplomatic-pressure-north-korea/",
+    "id": "e0bcbba2-f94a-45f5-acf1-c725120224d6",
+    "title": "U.S., Japan agree to maximize diplomatic pressure on North Korea",
+    "published_date": "2017-10-17 13:01:05",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB1D0>",
+    "link": "http://www.pbs.org/newshour/bb/news-wrap-dozens-missing-deadly-mogadishu-truck-bombing/",
+    "id": "21b41af2-f886-463f-9af2-59495396641c",
+    "title": "News Wrap: Dozens missing after deadly Mogadishu truck bombing",
+    "published_date": "2017-10-16 22:45:17",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB290>",
+    "link": "http://www.pbs.org/newshour/bb/power-struggle-broken-kirkuk/",
+    "id": "c9d247d9-8a30-477b-b7b0-35e026e1b659",
+    "title": "Why a power struggle has broken out over Kirkuk",
+    "published_date": "2017-10-16 22:40:31",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB350>",
+    "link": "http://www.pbs.org/newshour/rundown/rex-tillerson-says-continue-diplomacy-north-korea-first-bomb-drops/",
+    "id": "70bc3d51-9d90-43db-aafa-4429c4c183d5",
+    "title": "Rex Tillerson says continue diplomacy with North Korea \u2018until first bomb drops\u2019",
+    "published_date": "2017-10-16 11:08:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB410>",
+    "link": "http://www.pbs.org/newshour/bb/iraqi-kurdish-forces-standoff-weeks-kurdish-vote-independence/",
+    "id": "b1c3bf67-ee0e-49d0-8be0-4a9ff49f5454",
+    "title": "Iraqi, Kurdish forces in standoff, weeks after Kurdish vote for independence",
+    "published_date": "2017-10-15 20:33:23",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB4D0>",
+    "link": "http://www.pbs.org/newshour/bb/south-sudan-civil-war-causes-africas-worst-refugee-crisis/",
+    "id": "c8c65949-350f-4f88-bb52-4a3bdf60f8e4",
+    "title": "South Sudan civil war causes Africa\u2019s worst refugee crisis",
+    "published_date": "2017-10-15 19:26:17",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB590>",
+    "link": "http://www.pbs.org/newshour/rundown/hundreds-dead-massive-truck-bomb-strikes-mogadishu/",
+    "id": "559bdc67-61e1-4231-99c1-90f8daff075b",
+    "title": "Hundreds dead after massive truck bomb strikes Mogadishu",
+    "published_date": "2017-10-15 16:27:49",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB650>",
+    "link": "http://www.pbs.org/newshour/updates/reporters-notebook-reporting-south-sudan-difficult-critically-needed/",
+    "id": "0c670d99-be8d-48d5-9633-bbb75941ea34",
+    "title": "Column: Why reporting from South Sudan is so difficult \u2014 and critically needed",
+    "published_date": "2017-10-15 14:27:40",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB710>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68090708?at_medium=RSS&at_campaign=KARANGA",
+    "id": "890d9152-ed89-4432-9732-66afafb93684",
+    "title": "Haji Malang: The Sufi shrine caught up in a religious row in Mumbai",
+    "published_date": "2024-01-28 23:14:37",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB7D0>",
+    "link": "https://www.bbc.co.uk/sport/cricket/68127753?at_medium=RSS&at_campaign=KARANGA",
+    "id": "2f127b9b-dec3-4af6-bd4c-f2c9acf346d3",
+    "title": "India vs England: KL Rahul and Ravindra Jadeja to miss second Test",
+    "published_date": "2024-01-29 11:44:58",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB890>",
+    "link": "https://www.bbc.co.uk/news/world-us-canada-68038175?at_medium=RSS&at_campaign=KARANGA",
+    "id": "2ea0c199-ee88-490e-af23-2b0278db8ee4",
+    "title": "Why is Canada so vulnerable to foreign meddling?",
+    "published_date": "2024-01-28 21:56:19",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BB950>",
+    "link": "https://www.bbc.co.uk/news/uk-england-birmingham-68121754?at_medium=RSS&at_campaign=KARANGA",
+    "id": "69e0d628-f37a-47e6-8688-55f8200ca19a",
+    "title": "UK MPs to meet security minister over safety of Sikhs",
+    "published_date": "2024-01-28 14:57:49",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBA10>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68053470?at_medium=RSS&at_campaign=KARANGA",
+    "id": "c3cbd63a-79bd-4582-ac4a-7013ba44b7c6",
+    "title": "Moti Mahal: India curry houses battle over butter chicken",
+    "published_date": "2024-01-28 01:17:04",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBAD0>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67799316?at_medium=RSS&at_campaign=KARANGA",
+    "id": "46fae1d8-823e-41dc-bcd3-299449030cdc",
+    "title": "Tamil Nadu: Chennai\u2019s 'last Jew' fights for place in India\u2019s history",
+    "published_date": "2024-01-27 03:25:03",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBB90>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68091822?at_medium=RSS&at_campaign=KARANGA",
+    "id": "922423c2-a82f-411d-8e3c-0c7129657c50",
+    "title": "India calls Pakistan's claim of targeted killings 'false'",
+    "published_date": "2024-01-26 07:04:26",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6A12C950>",
+    "link": "https://www.bbc.co.uk/sport/tennis/68078338?at_medium=RSS&at_campaign=KARANGA",
+    "id": "18783bba-ee1b-4d36-8c5c-7590d403f931",
+    "title": "Bopanna, 43, becomes oldest tennis world number one",
+    "published_date": "2024-01-24 07:45:59",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6A12C830>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68066261?at_medium=RSS&at_campaign=KARANGA",
+    "id": "98d83982-960b-4e2c-8ca6-9ba6d2630c1a",
+    "title": "Watch: Crowds at India's new Ram temple in Ayodhya day after opening",
+    "published_date": "2024-01-23 09:47:15",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6A12C4D0>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68003095?at_medium=RSS&at_campaign=KARANGA",
+    "id": "e7649037-79b0-45c3-b6d7-2a08d619dd06",
+    "title": "Ayodhya Ram Mandir: India PM Modi inaugurates Hindu temple on razed Babri mosque site",
+    "published_date": "2024-01-22 16:00:06",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6A12C890>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68053468?at_medium=RSS&at_campaign=KARANGA",
+    "id": "a9ada913-dfdf-4ff7-aa10-007ec82b46ca",
+    "title": "Watch: Indian PM Modi inaugurates temple in Ayodhya",
+    "published_date": "2024-01-22 08:06:54",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6A12C5F0>",
+    "link": "https://www.bbc.co.uk/sport/cricket/68123032?at_medium=RSS&at_campaign=KARANGA",
+    "id": "c6ceb6e3-5321-47b5-9d10-26dafdd88569",
+    "title": "India v England: 'Hyderabad Heist shows England are unmissable'",
+    "published_date": "2024-01-28 19:18:36",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6A12C650>",
+    "link": "https://www.bbc.co.uk/sport/tennis/68117965?at_medium=RSS&at_campaign=KARANGA",
+    "id": "09a876f5-6024-4486-b863-df135c681fcf",
+    "title": "Rohan Bopanna: 'Age is just a number'",
+    "published_date": "2024-01-27 15:42:34",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBC50>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68091821?at_medium=RSS&at_campaign=KARANGA",
+    "id": "3f7ffe93-ec12-4dd4-8f41-07e14181d597",
+    "title": "Women take the lead in Republic Day parade",
+    "published_date": "2024-01-26 09:05:05",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBD10>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67980484?at_medium=RSS&at_campaign=KARANGA",
+    "id": "aaa8aa36-db35-4a60-b2fd-3fd6883572eb",
+    "title": "Umar Khalid: Indian activist languishes in jail without bail or trial",
+    "published_date": "2024-01-23 00:32:22",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBDD0>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67942639?at_medium=RSS&at_campaign=KARANGA",
+    "id": "b1397c72-1f77-4b9b-bb8d-485cbebca46e",
+    "title": "Adani Ports: The Tamil Nadu villagers taking on a billionaire's port plan",
+    "published_date": "2024-01-24 02:39:32",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBE90>",
+    "link": "https://www.bbc.co.uk/sport/cricket/68069988?at_medium=RSS&at_campaign=KARANGA",
+    "id": "2102290c-bbd0-4a0e-8065-a725cf72c5eb",
+    "title": "India v England: Relaxed, fit tourists look for series win for the ages",
+    "published_date": "2024-01-24 14:52:25",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1BBF50>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68030712?at_medium=RSS&at_campaign=KARANGA",
+    "id": "3f905dd5-f527-46c0-bd96-9eff66dac150",
+    "title": "Ayodhya: Temple to open at India\u2019s religious fault-line",
+    "published_date": "2024-01-21 01:50:07",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8050>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68015106?at_medium=RSS&at_campaign=KARANGA",
+    "id": "1394a6a0-2095-47b2-85f2-52338b5ae3b9",
+    "title": "Kashmir's rare snowless winter sets off alarm bells",
+    "published_date": "2024-01-19 03:54:53",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8110>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67911165?at_medium=RSS&at_campaign=KARANGA",
+    "id": "f0d0fc46-a163-45bf-82ac-d1921352eef1",
+    "title": "Lakshadweep: Can India's 'alternative Maldives' handle mass tourism?",
+    "published_date": "2024-01-18 04:08:29",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C81D0>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-68027147?at_medium=RSS&at_campaign=KARANGA",
+    "id": "d13e424a-2cd0-47e1-96cf-4fc0f6d2f540",
+    "title": "Gujarat boat capsize victims 'not given life jackets'",
+    "published_date": "2024-01-19 05:08:57",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8290>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67911170?at_medium=RSS&at_campaign=KARANGA",
+    "id": "f0f34c84-8e42-4966-b345-551559acafa8",
+    "title": "What Rahul Gandhi's march means for India election",
+    "published_date": "2024-01-15 08:38:23",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8350>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67943375?at_medium=RSS&at_campaign=KARANGA",
+    "id": "a3eaba33-eeab-45ee-b43b-98e6ec072c5f",
+    "title": "Agatha Christie: The Indian hotel murder that inspired the queen of crime",
+    "published_date": "2024-01-13 22:26:16",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8410>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67889621?at_medium=RSS&at_campaign=KARANGA",
+    "id": "598d2de0-d93f-4dac-8972-c75105fba70e",
+    "title": "Bengaluru: Why English is dividing people in India's Silicon Valley",
+    "published_date": "2024-01-12 00:20:40",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C84D0>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67860456?at_medium=RSS&at_campaign=KARANGA",
+    "id": "b3e94fb1-cf27-4fd4-bb3e-63ff5f8b8105",
+    "title": "Bihar men conned by 'impregnating women' job scam",
+    "published_date": "2024-01-10 00:00:22",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8590>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67942642?at_medium=RSS&at_campaign=KARANGA",
+    "id": "e12f1201-5a4e-4a46-967b-37324067ba58",
+    "title": "Maldives: Maldivians debate India's 'boycott' of their nation",
+    "published_date": "2024-01-11 07:28:52",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8650>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67843833?at_medium=RSS&at_campaign=KARANGA",
+    "id": "5db704b4-236a-4419-ada4-c4658d8bd0e5",
+    "title": "Plane gets jammed under bridge in India",
+    "published_date": "2023-12-29 23:17:00",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8710>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67700660?at_medium=RSS&at_campaign=KARANGA",
+    "id": "f3144d8a-c416-440d-a559-01d21104ae1a",
+    "title": "Intruder jumps on table in Indian parliament",
+    "published_date": "2023-12-13 09:49:30",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C87D0>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67552409?at_medium=RSS&at_campaign=KARANGA",
+    "id": "6a9ad08d-fa31-48f8-afc0-69d24ee73e58",
+    "title": "Moment worker is pulled from collapsed tunnel",
+    "published_date": "2023-11-28 15:13:21",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8890>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67482786?at_medium=RSS&at_campaign=KARANGA",
+    "id": "849ba314-e488-4a05-a842-8e8bf2d420c1",
+    "title": "First video of trapped tunnel workers in India",
+    "published_date": "2023-11-21 05:58:33",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8950>",
+    "link": "https://www.bbc.co.uk/news/world-asia-india-67258761?at_medium=RSS&at_campaign=KARANGA",
+    "id": "c213bfb9-93b7-429a-8f0f-5d5d7ab8e262",
+    "title": "Andhra Pradesh: Drone footage shows aftermath of deadly India train crash",
+    "published_date": "2023-10-30 06:08:55",
+    "content": null,
+    "label": null
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001ED6D1C8A10>",
+    "link": "https://www.bbc.co.uk/news/world-67015721?at_medium=RSS&at_campaign=KARANGA",
+    "id": "787776b0-2887-4daa-8e14-3064d25f7ae4",
+    "title": "India flash floods: More than 100 missing in Sikkim state",
+    "published_date": "2023-10-05 07:25:09",
+    "content": null,
+    "label": null
+  }
+]
